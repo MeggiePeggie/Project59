@@ -1,0 +1,37 @@
+body {
+  text-align:center;
+  background-color:#651FFF;
+  background-repeat:no-repeat;
+  color:white;
+}
+
+.img {
+  border-radius:50%;
+  width:80%;
+}
+
+#welcome {
+  padding:20px;
+  text-align:center;
+}
+
+#bio, #types, #videos {
+  background-color:#304FFE;
+  padding:20px;
+  text-align:center;
+}
+
+.menu {
+  list-style: none;
+  font-family:;
+  float:right;
+  top;10px;
+  right:30px;
+  cursor:pointer;
+  color:white;
+
+}
+ 
+h2 {
+ font-family: 'Amatic SC', cursive; 
+}
